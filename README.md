@@ -24,4 +24,4 @@ Using mostly:
 
 ## Link to the couse
 
-[Trilha ReactJS](https://app.rocketseat.com.br/ignite/react-js)
+[Ignite](https://www.rocketseat.com.br/ignite)
